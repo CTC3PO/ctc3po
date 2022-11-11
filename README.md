@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Xin Chào, I'm Chau Tran</h1>
-<h3 align="center">designer at NYC Department of City Planning, master student in computer information technology at University of Pennsylvania</h3>
+<h3 align="center">Designer at NYC Department of City Planning, currently a master student in computer information technology at University of Pennsylvania</h3>
 
 - 🔭 I’m interested in [MERN Stack, Python, Machine Learning](https://github.com/ctc3po)
 
