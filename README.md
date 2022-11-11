@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, Xin Chào, I'm Chau Tran</h1>
-<h3 align="center">a designer at NYC Department of City Planning, currently a computer science masters student at University of Pennsylvania</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m interested in **MERN stack, SQL, Python**
 
-- 🌱 I’m currently working on **web apps using React and backend technologies**
+- 🌱 I’m currently learning **MERN stack, SQL, Python**
 
 - 👯 I’m looking to collaborate on **any fun projects focusing on full-stack**
 
