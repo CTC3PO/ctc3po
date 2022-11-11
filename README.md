@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any fun projects focusing on full-stack**
 
-- 🤝 I’m looking for help with [learning MERN stack, machine learning, getting exp. as a full stack engineer](https://github.com/ctc3po)
+- 🤝 I’m looking for help with learning MERN stack, machine learning, getting exp. as a full stack engineer
 
 - 👨‍💻 All of my projects are available at [https://github.com/ctc3po](https://github.com/ctc3po)
 
