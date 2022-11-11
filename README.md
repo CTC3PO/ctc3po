@@ -3,7 +3,7 @@
 
 - 🔭 I’m interested in **MERN stack, SQL, Python**
 
-- 🌱 I’m currently learning **MERN stack, SQL, Python**
+- 🌱 I’m currently working on **web apps using React and backend technologies**
 
 - 👯 I’m looking to collaborate on **any fun projects focusing on full-stack**
 
