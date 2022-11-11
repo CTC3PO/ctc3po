@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, Xin Chào, I'm Chau Tran</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">a designer at NYC Department of City Planning, currently a computer science masters student at University of Pennsylvania</h3>
 
 - 🔭 I’m interested in **MERN stack, SQL, Python**
 
-- 🌱 I’m currently learning **MERN stack, SQL, Python**
+- 🌱 I’m currently working on **web apps using React and backend technologies**
 
 - 👯 I’m looking to collaborate on **any fun projects focusing on full-stack**
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chautrancmt26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chautrancmt26" height="30" width="40" /></a>
 <a href="https://instagram.com/chuluxubu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chuluxubu" height="30" width="40" /></a>
-<a href="https://medium.com/chautrancmt26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chautrancmt26" height="30" width="40" /></a>
+<a href="https://medium.com/@chautrancmt26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chautrancmt26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
