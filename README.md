@@ -2,17 +2,17 @@
 <h3 align="center">designer at NYC Department of City Planning 
   <span>, computer science masters student at University of Pennsylvania</span></h3>
 
-- 🔭 I’m interested in **MERN stack, SQL, Python**
+- 🔭 I’m interested in **MERN stack, Machine Learning, Python**
 
-- 🌱 I’m currently working on **web apps using React and backend technologies**
+- 🌱 I’m currently working on **web apps using React as front end and backend technologies**
 
-- 👯 I’m looking to collaborate on **any fun projects focusing on full-stack**
+- 👯 I’m looking to collaborate on **any fun projects focusing on full-stack development**
 
-- 🤝 I’m looking for help with **learning MERN stack, machine learning, getting exp. as a full stack engineer**
+- 🤝 I’m looking for help with **improving my full-stack skills, machine learning, getting exp. as a full stack engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ctc3po](https://github.com/ctc3po)
 
-- 💬 Ask me about **working for New York City, resources to learn MERN**
+- 💬 Ask me about **working for New York City, resources to learn MERN stack**
 
 - 📫 How to reach me **chautrancmt26@gmail.com**
 
