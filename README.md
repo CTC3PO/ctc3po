@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **improving my full-stack skills, machine learning, getting exp. as a full stack engineer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ctc3po](https://github.com/ctc3po)
+- 👨‍💻 My portfolio website [https://chautran.co](https://chautran.co)
 
 - 💬 Ask me about **working for New York City, resources to learn MERN stack**
 
