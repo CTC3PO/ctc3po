@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chautrancmt26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chautrancmt26" height="30" width="40" /></a>
-<a href="https://portfolio-ct-pied.vercel.app/" target="blank"><img align="center" src="https://i.ibb.co/CnYfrhZ/icons8-portfolio-64.png" alt="portfolio" height="40" width="40" /></a>
+<a href="https://chautran.co" target="blank"><img align="center" src="https://i.ibb.co/CnYfrhZ/icons8-portfolio-64.png" alt="portfolio" height="40" width="40" /></a>
 <a href="https://instagram.com/chuluxubu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chuluxubu" height="30" width="40" /></a>
 <a href="https://medium.com/@chautrancmt26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chautrancmt26" height="30" width="40" /></a>
 </p>
