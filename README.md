@@ -2,7 +2,7 @@
 <h3 align="center">designer at NYC Department of City Planning 
   <span>, computer science masters student at University of Pennsylvania</span></h3>
 
-- 🔭 I’m interested in **MERN stack, Machine Learning, Python**
+- 🔭 I’m interested in **learning full-stack technologies, Machine Learning, Python**
 
 - 🌱 I’m currently working on **web apps using React as front end and backend technologies**
 
