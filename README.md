@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **improving my full-stack skills, machine learning, getting exp. as a full stack engineer**
 
-- 👨‍💻 My portfolio website [https://chautran.co](https://chautran.co)
+- 👨‍💻 My portfolio website (under construction)
 
 - 💬 Ask me about **working for New York City, resources to learn MERN stack**
 
