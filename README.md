@@ -1,38 +1,91 @@
-<h1 align="center">Hi 👋, Xin Chào, I'm Chau Tran</h1>
-<h3 align="center">designer at NYC Department of City Planning 
-  <span>, computer science masters student at University of Pennsylvania</span></h3>
+<h1 align="center">Hi, I'm Chau Tran</h1>
+<h3 align="center">Software Engineer & CS Master's Graduate @ UPenn | Formerly at NYC Planning</h3>
 
-- 🔭 I’m interested in **learning full-stack technologies, Machine Learning, Python**
-
-- 🌱 I’m currently working on **web apps using React as front end and backend technologies**
-
-- 👯 I’m looking to collaborate on **any fun projects focusing on full-stack development**
-
-- 🤝 I’m looking for help with **improving my full-stack skills, machine learning, getting exp. as a full stack engineer**
-
-- 👨‍💻 My portfolio website (under construction)
-
-- 💬 Ask me about **working for New York City, resources to learn MERN stack**
-
-- 📫 How to reach me **chautrancmt26@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/chautrancmt26/](https://www.linkedin.com/in/chautrancmt26/)
-
-- ⚡ Fun fact **I own an Australian Cattle Dog named Scout**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chautrancmt26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chautrancmt26" height="30" width="40" /></a>
-<a href="https://chautran.co" target="blank"><img align="center" src="https://i.ibb.co/CnYfrhZ/icons8-portfolio-64.png" alt="portfolio" height="40" width="40" /></a>
-<a href="https://instagram.com/chuluxubu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chuluxubu" height="30" width="40" /></a>
-<a href="https://medium.com/@chautrancmt26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chautrancmt26" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://chautran.dev"><img src="https://img.shields.io/badge/Portfolio-chautran.dev-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/chautrancmt26"><img src="https://img.shields.io/badge/LinkedIn-Chau%20Tran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chautrancmt26@gmail.com"><img src="https://img.shields.io/badge/Email-chautrancmt26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/CTC3PO"><img src="https://img.shields.io/badge/GitHub-CTC3PO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctc3po&show_icons=true&locale=en&layout=compact" alt="ctc3po" /></p>
+### About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ctc3po&show_icons=true&locale=en" alt="ctc3po" /></p>
+I am a **Software Engineer** and recent **Computer Science Master's (with AI Certificate)** graduate from the **University of Pennsylvania**. Before transitioning into software engineering, I spent nearly 6 years as an **Urban Planner** at the **NYC Department of City Planning**, managing city-wide spatial data and building public-facing web tools.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ctc3po&" alt="ctc3po" /></p>
+My unique background spans **high-throughput frontend monitoring tools**, **3D geospatial web apps**, and **large-scale machine learning pipelines**—giving me a practical perspective on building software that solves complex real-world problems.
+
+* **Education**:
+  * **University of Pennsylvania** — M.S. in Computer Science + AI Certificate (GPA: 3.70)
+  * **New Jersey Institute of Technology** — M.S. Urban Studies (GPA: 3.85) | B.Arch. Architecture (GPA: 3.83)
+* **Core Focus**: Full-Stack Engineering (React, Next.js, Node.js, FastAPI), Spatial/Telemetry Data Visualization, & Machine Learning / RAG Systems.
+
+---
+
+### Featured Projects
+
+#### [ZR-Explore: NYC Zoning Navigator](https://github.com/CTC3PO)
+> **Full-Stack 3D Geospatial Web App with RAG AI Assistant**
+* **Tech Stack**: `React` • `Three.js` • `Mapbox GL JS` • `FastAPI` • `Python` • `RAG / LLMs`
+* Built an interactive 3D web tool to make complex municipal zoning regulations legible, integrating a RAG AI assistant for automated buildable envelope calculations.
+
+#### [Volunteer Management System](https://github.com/CTC3PO)
+> **Full-Stack Progressive Web App (PWA)**
+* **Tech Stack**: `Next.js` • `Node.js` • `PostgreSQL` • `REST APIs` • `Service Workers`
+* Developed a responsive PWA featuring automated CSV data ingest pipelines and offline-first client caching for seamless user workflows.
+
+#### [Nutri-Score Prediction Pipeline](https://github.com/CTC3PO)
+> **End-to-End Machine Learning Pipeline**
+* **Tech Stack**: `PyTorch` • `Scikit-learn` • `Python` • `Pandas`
+* Built a data processing and model benchmarking pipeline handling 1M+ dataset records with custom feature extraction and evaluation.
+
+---
+
+### Languages & Technical Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Databases** | `Python` • `JavaScript (ES6+)` • `TypeScript` • `Java` • `C/C++` • `SQL` • `PostgreSQL` |
+| **Frontend & Visualization** | `React` • `Next.js` • `Redux` • `Three.js` • `Mapbox GL` • `HTML5/CSS3` • `Tailwind CSS` |
+| **Backend, Data & ML** | `Node.js` • `Express` • `FastAPI` • `PyTorch` • `Scikit-learn` • `Pandas` • `GeoPandas` • `REST APIs` • `ETL Pipelines` |
+| **Tools & Infrastructure** | `Docker` • `Git` • `Jest` • `Firebase` • `Figma` • `Webpack` |
+
+<br />
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+</p>
+
+---
+
+### GitHub Activity & Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CTC3PO&show_icons=true&theme=radial&hide_border=true" alt="Chau's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTC3PO&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CTC3PO&theme=radial&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning complex data and urban scale challenges into intuitive, high-performance software."</i>
+</p>
