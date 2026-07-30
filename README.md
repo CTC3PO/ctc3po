@@ -12,7 +12,7 @@
 
 ### About Me
 
-I am a **Software Engineer** and recent **Computer Science Master's (with AI Certificate)** graduate from the **University of Pennsylvania**. Before transitioning into software engineering, I spent nearly 6 years as an **Urban Planner** at the **NYC Department of City Planning**, managing city-wide spatial data and building public-facing web tools.
+I am a **Software Engineer** and recent **Computer Science Master's (with AI Certificate)** graduate from the **University of Pennsylvania**. Before transitioning into software engineering, I spent almost 6 years as an **Urban Planner** at the **NYC Department of City Planning**, managing city-wide spatial data and building public-facing web tools.
 
 My unique background spans **high-throughput frontend monitoring tools**, **3D geospatial web apps**, and **large-scale machine learning pipelines**—giving me a practical perspective on building software that solves complex real-world problems.
 
@@ -25,17 +25,17 @@ My unique background spans **high-throughput frontend monitoring tools**, **3D g
 
 ### Featured Projects
 
-#### [ZR-Explore: NYC Zoning Navigator](https://github.com/CTC3PO)
+#### [ZR-Explore: NYC Zoning Navigator](https://github.com/CTC3PO/zr-explore)
 > **Full-Stack 3D Geospatial Web App with RAG AI Assistant**
 * **Tech Stack**: `React` • `Three.js` • `Mapbox GL JS` • `FastAPI` • `Python` • `RAG / LLMs`
 * Built an interactive 3D web tool to make complex municipal zoning regulations legible, integrating a RAG AI assistant for automated buildable envelope calculations.
 
-#### [Volunteer Management System](https://github.com/CTC3PO)
+#### [Volunteer Management System](https://github.com/CTC3PO/volunteer-manager)
 > **Full-Stack Progressive Web App (PWA)**
 * **Tech Stack**: `Next.js` • `Node.js` • `PostgreSQL` • `REST APIs` • `Service Workers`
 * Developed a responsive PWA featuring automated CSV data ingest pipelines and offline-first client caching for seamless user workflows.
 
-#### [Nutri-Score Prediction Pipeline](https://github.com/CTC3PO)
+#### [Nutri-Score Prediction Pipeline](https://github.com/CTC3PO/ml-nutri-score-prediction)
 > **End-to-End Machine Learning Pipeline**
 * **Tech Stack**: `PyTorch` • `Scikit-learn` • `Python` • `Pandas`
 * Built a data processing and model benchmarking pipeline handling 1M+ dataset records with custom feature extraction and evaluation.
@@ -70,22 +70,3 @@ My unique background spans **high-throughput frontend monitoring tools**, **3D g
 
 ---
 
-### GitHub Activity & Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CTC3PO&show_icons=true&theme=radial&hide_border=true" alt="Chau's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTC3PO&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CTC3PO&theme=radial&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <i>"Turning complex data and urban scale challenges into intuitive, high-performance software."</i>
-</p>
