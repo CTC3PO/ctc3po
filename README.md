@@ -12,7 +12,7 @@
 
 ### About Me
 
-I am a **Software Engineer** and recent **Computer Science Master's (with AI Certificate)** graduate from the **University of Pennsylvania**. Before transitioning into software engineering, I spent almost 6 years as an **Urban Planner** at the **NYC Department of City Planning**, managing city-wide spatial data and building public-facing web tools.
+I am a **Software Engineer** and recent **Computer Science Master's ** graduate from the **University of Pennsylvania**. Before transitioning into software engineering, I spent almost 6 years as an **Urban Planner** at the **NYC Department of City Planning**, managing city-wide spatial data and building public-facing web tools.
 
 My unique background spans **high-throughput frontend monitoring tools**, **3D geospatial web apps**, and **large-scale machine learning pipelines**—giving me a practical perspective on building software that solves complex real-world problems.
 
